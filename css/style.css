@@ -1,0 +1,35 @@
+.shakes img{
+    border:5px solid #222;
+}
+article{
+    font-family: 'Noto Sans', sans-serif;
+}
+article h2{
+    text-align: center;
+}
+.shakes{
+    text-align: center;
+}
+.insult{
+    text-align: center;
+}
+.current{
+font-weight:700;
+}
+
+.current.player{
+background-color: #fff829;
+}
+
+
+header h1{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}

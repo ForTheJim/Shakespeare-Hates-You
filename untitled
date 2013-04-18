@@ -1,0 +1,9 @@
+
+var word1Array =[];
+var word2Array = [];
+var word3Array = [];
+
+
+function generateInsult(wordArray){
+var item = wordArray[Math.floor(Math.random()*wordArray.length)];
+}

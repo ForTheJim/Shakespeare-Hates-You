@@ -22,10 +22,8 @@ background-color: #fff829;
 }
 
 
-header h1{
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 700;
-    text-align: center;
+header {
+margin-bottom:20px;
 }
 
 .form-actions {

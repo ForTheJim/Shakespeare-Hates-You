@@ -3,10 +3,9 @@
 }
 article{
     font-family: 'Noto Sans', sans-serif;
+      text-align: center;
 }
-article h2{
-    text-align: center;
-}
+
 .shakes{
     text-align: center;
 }

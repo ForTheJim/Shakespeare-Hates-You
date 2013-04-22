@@ -6,6 +6,10 @@ article{
       text-align: center;
 }
 
+body{
+  background-image: url(../img/binding_dark.png);
+}
+
 .shakes{
     text-align: center;
 }
@@ -23,6 +27,14 @@ background-color: #fff829;
 
 header {
 margin-bottom:20px;
+}
+
+h1 a{
+ display:block;
+ width:1170px;
+ height:300px;
+ background:url(../img/shakesHeader.png) left top no-repeat;
+ text-indent:-9999px;
 }
 
 .form-actions {

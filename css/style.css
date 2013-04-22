@@ -4,6 +4,7 @@
 article{
     font-family: 'Noto Sans', sans-serif;
       text-align: center;
+      padding: 20px;
 }
 
 body{
@@ -24,6 +25,9 @@ font-weight:700;
 background-color: #fff829;
 }
 
+footer{
+  padding:20px;
+}
 
 header {
 margin-bottom:20px;
